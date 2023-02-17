@@ -1,0 +1,29 @@
+.body-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.text-container {
+  width: 50%;
+}
+.text-container h1 {
+  font-size: 289px;
+  line-height: 0px;
+  position: relative;
+}
+
+.text-container .model {
+  color: orangered;
+}
+.text-container h1 .cc-limit {
+  position: absolute;
+  top: 190px;
+  left: 310px;
+  color: black;
+}
+
+.img-container {
+  padding: 5px;
+  width: 50%;
+}

@@ -1,0 +1,53 @@
+.nav-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  clip-path: polygon(0 0, 80% 0%, 100% 100%, 25% 100%);
+  background-color: orangered;
+  width: 200px;
+  height: 80px;
+  margin-right: -20px;
+  display: flex;
+  justify-content: center;
+}
+
+.logo p {
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.logoo {
+  clip-path: polygon(20% 0%, 100% 0%, 75% 100%, 0% 100%);
+  background-color: orangered;
+  width: 200px;
+  height: 80px;
+  margin-left: -20px;
+  display: flex;
+  justify-content: center;
+}
+
+.logoo p {
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.menu {
+  clip-path: polygon(0 0, 100% 0, 95% 100%, 5% 100%);
+  background-color: gray;
+  color: white;
+  width: 800px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.menu li {
+  list-style: none;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 0 10px;
+}

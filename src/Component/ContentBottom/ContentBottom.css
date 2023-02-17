@@ -1,0 +1,56 @@
+.bottom-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-content {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+}
+
+.social-icon {
+  margin-left: 50px;
+}
+.social-icon p {
+  margin: 0;
+  padding: 5px;
+  font-size: 24px;
+}
+
+.feature-container {
+  display: flex;
+}
+
+.feature-one {
+  padding: 5px;
+  margin: 0 20px;
+  padding: 0;
+}
+
+.feature-one p {
+  line-height: 0px;
+  text-align: left;
+}
+
+.feature-one h4 {
+  line-height: 0px;
+  color: orangered;
+  font-family: "inter";
+}
+
+.right-content {
+  background-color: orangered;
+  width: 250px;
+  text-align: left;
+  padding: 0 14px;
+}
+
+.right-content h3 {
+  line-height: 0;
+  color: white;
+}
+.right-content p {
+  font-size: 12px;
+}
