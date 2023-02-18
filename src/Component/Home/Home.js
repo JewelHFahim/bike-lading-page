@@ -7,9 +7,9 @@ import "./Home.css";
 const Home = () => {
   return (
     <div className="main-container">
-      <Navbar></Navbar>
-      <ContentBody></ContentBody>
-      <ContentBottom></ContentBottom>
+      <div><Navbar></Navbar></div>
+      <div><ContentBody></ContentBody></div>
+      <div><ContentBottom></ContentBottom></div>
     </div>
   );
 };

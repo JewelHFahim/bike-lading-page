@@ -26,17 +26,17 @@ const ContentBottom = () => {
           <div className="feature-one">
             <h4> Royal Enfield </h4>
             <p> 650 cc limit</p>
-            <img src={img1} style={{ width: "100px" }} alt="" />
+            <img src={img1} style={{ width: "110px" }} alt="" />
           </div>
           <div className="feature-one">
             <h4> Royal Enfield </h4>
             <p> 650 cc limit</p>
-            <img src={img1} style={{ width: "100px" }} alt="" />
+            <img src={img1} style={{ width: "110px" }} alt="" />
           </div>
           <div className="feature-one">
             <h4> Royal Enfield </h4>
             <p> 650 cc limit</p>
-            <img src={img1} style={{ width: "100px" }} alt="" />
+            <img src={img1} style={{ width: "110px" }} alt="" />
           </div>
         </div>
       </div>

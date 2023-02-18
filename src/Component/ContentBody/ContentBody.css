@@ -15,6 +15,7 @@
 
 .text-container .model {
   color: orangered;
+  font-family: "inter";
 }
 .text-container h1 .cc-limit {
   position: absolute;
@@ -23,7 +24,32 @@
   color: black;
 }
 
+.text-container p {
+  position: absolute;
+  top: 650px;
+  left: 310px;
+  font-size: 24px;
+  font-weight: 500;
+letter-spacing: 18px;
+
+}
+
 .img-container {
   padding: 5px;
   width: 50%;
+}
+
+
+.pagination{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+}
+
+.pagination p {
+  font-size: 24px;
+  font-weight: 600;
+  padding: 0px 10px;
+  margin-right: 10px;
 }
